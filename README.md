@@ -13,7 +13,7 @@ Interactive simulation of 11 payment rails (ACH, Wire, RTP, FedNow, cards, USDC,
 Automated pipeline that turns 50+ RSS feeds into a personalized weekly digest. Cloudflare Workers → Gemini Flash for daily summaries → Gemini Pro for weekly synthesis → Claude for monthly trend analysis. Tracks OCC charter races, stablecoin infrastructure, BaaS risk, and ISO 20022 migration deadlines so I don't have to.
 
 **Hermes — AI PM Interview Coach**
-Claude-powered interviewer that runs Capital One "Power Day" cases with cross-session memory. Grades on four pillars: Correctness (30%), Ops (25%), Economics (30%), Risk (15%). Remembers what you got wrong last session and coaches that specifically.
+Claude-powered interviewer that runs FinTech PM cases with cross-session memory. Grades on four pillars: Correctness (30%), Ops (25%), Economics (30%), Risk (15%). Remembers what you got wrong last session and coaches on that specifically.
 
 ---
 
